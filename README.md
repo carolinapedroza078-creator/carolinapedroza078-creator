@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- BANNER ANIMADO EN ONDAS MORADAS EN MOVIMIENTO -->
+<!-- BANNER ANIMADO EN ONDAS MORADAS -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=220&section=header&text=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=twinkle&fontAlignY=36" width="100%" />
 
 <br/>
 
-<!-- EFECTO DE MÁQUINA DE ESCRIBIR ANIMADA -->
+<!-- EFECTO DE MÁQUINA DE ESCRIBIR ANIMADA EN MORADO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Frontend+%26+Backend+Engineering;Creating+Modern+Web+Experiences;Angular+%7C+TypeScript+%7C+Node.js;Building+Clean+%26+Scalable+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Frontend+%26+Backend+Engineering;Creating+Modern+Web+Experiences;Angular+%7C+TypeScript+%7C+Node.js;Building+Clean+%26+Scalable+Code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,express,mongodb,js,html,css,git,postman,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,express,mongodb,js,html,css,git,postman,vscode&theme=light" />
   </a>
 </p>
 
@@ -50,20 +50,30 @@
 
 <br/>
 
-## 📊 Dynamic Activity & Stats
+## 📊 Performance & Interactive Analytics
 
+<!-- TROFEOS Y LOGROS INTERACTIVOS EN TONOS LILA / VIOLETA -->
 <p align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=carolinapedroza078-creator&show_icons=true&theme=synthwave&hide_border=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" width="48%" />
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=carolinapedroza078-creator&layout=compact&theme=synthwave&hide_border=true&title_color=c084fc&text_color=e9d5ff" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=carolinapedroza078-creator&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<!-- GRÁFICO DINÁMICO DE ACTIVIDAD Y RITMO -->
+<br/>
+
+<!-- TARJETAS DE ESTADÍSTICAS EN FONDO TRANSPARENTE/BLANCO CON DETALLES MORADOS -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolinapedroza078-creator&theme=react-dark&bg_color=0d1117&color=c084fc&line=a855f7&point=e9d5ff&hide_border=true" width="95%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=carolinapedroza078-creator&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=c084fc&text_color=4b5563" width="48%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=carolinapedroza078-creator&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=4b5563" width="45%" />
+</p>
+
+<br/>
+
+<!-- RITMO Y RACHA EN FONDO CLARO CON ACENTOS MORADOS -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carolinapedroza078-creator&theme=borderless&hide_border=true&background=FFFFFF00&sideLabels=4b5563&dates=6b7280&currStreakNum=a855f7&fire=c084fc&ring=a855f7" width="90%" />
 </p>
 
 ---
 
 <div align="center">
-  <sub>✨ Profile Visitors: <img src="https://komarev.com/ghpvc/?username=carolinapedroza078-creator&color=c084fc&style=flat-square" align="center" /> ✨</sub>
+  <sub>✨ Profile Visitors: <img src="https://komarev.com/ghpvc/?username=carolinapedroza078-creator&color=a855f7&style=flat-square" align="center" /> ✨</sub>
 </div>
