@@ -62,7 +62,7 @@ Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos ca
       <h3>🛒 SmokeSoft</h3>
       <p>Plataforma e-commerce moderna para la gestión de productos, seguimiento de pedidos y perfiles de usuario.</p>
       <p><code>JavaScript</code> · <code>Node.js</code> · <code>HTML5</code> · <code>CSS3</code></p>
-      <a href="https://github.com/carolinapedroza078-creator/SmokeSoft_Proyecto">✨ Explorar Repositorio</a>
+      <a href="https://github.com/carolinapedroza078-creator/smokesoft.git">✨ Explorar Repositorio</a>
     </td>
   </tr>
 </table>
