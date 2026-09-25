@@ -1,26 +1,29 @@
 <div align="center">
 
-<!-- BANNER ONDULADO MORADO PASTEL TRASLÚCIDO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d8b4fe&height=220&section=header&text=Carolina%20Pedroza&fontSize=48&fontColor=4c1d95&animation=fadeIn&fontAlignY=36" width="100%" />
-
-### 💜 Full Stack Developer 💜
-*Apasionada por la creación de interfaces dinámicas, arquitectura limpia y soluciones digitales innovadoras.*
+<!-- BANNER FUTURISTA Y TECNOLÓGICO -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=bgGradient&customColorList=12,24,25,26&height=180&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=42&fontColor=e9d5ff&animation=twinkle&fontAlignY=50" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolinapedroza078@gmail.com)
+### 💜 `< Software Engineering & Frontend Architecture />` 💜
+
+*Especializada en el desarrollo de plataformas web modernas, interfaces reactivas e integración de APIs.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Contact_Me-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolinapedroza078@gmail.com)
 
 </div>
 
 <br/>
 
-## 🔮 Sobre Mí
+## ⚡ Technical Overview
 
-```yaml
-desarrolladora:
-  nombre: Carolina Pedroza
-  edad: 23 años
-  enfoque: Frontend & Full Stack Development
-  intereses: [Diseño UI/UX, Integración de APIs, Aplicaciones Escalables]
-  filosofía: "Transformar ideas en código limpio, estético y funcional."
+```json
+{
+  "role": "Full Stack Web Developer",
+  "core_stack": ["Angular", "TypeScript", "Node.js", "Express", "MongoDB"],
+  "interests": ["UI/UX Engineering", "REST APIs", "Cloud & DevOps Basics"],
+  "status": "Building scalable web solutions"
+}
