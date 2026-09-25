@@ -54,21 +54,20 @@ Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos ca
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Sistema de Gestión de Empleados</h3>
-      <p>Plataforma administrativa Full Stack para el control de personal, gestión de roles, autenticación segura y operaciones CRUD.</p>
+      <p>Plataforma administrativa Full Stack con control de roles, autenticación y gestión dinámica de usuarios.</p>
       <p><code>Angular</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code></p>
       <a href="https://github.com/carolinapedroza078-creator/gestion-empleados-sena">✨ Explorar Repositorio</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛍️ SmokeSoft - Sistema de Gestión Comercial</h3>
-      <p>Plataforma e-commerce y de administración para el control de ventas, catálogo de productos, gestión de clientes e inventario.</p>
-      <p><code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code></p>
-      <a href="https://github.com/carolinapedroza078-creator">✨ Explorar Repositorio</a>
+      <h3>🛒 SmokeSoft</h3>
+      <p>Plataforma e-commerce moderna para la gestión de productos, seguimiento de pedidos y perfiles de usuario.</p>
+      <p><code>JavaScript</code> · <code>Node.js</code> · <code>HTML5</code> · <code>CSS3</code></p>
+      <a href="https://github.com/carolinapedroza078-creator/SmokeSoft_Proyecto">✨ Explorar Repositorio</a>
     </td>
   </tr>
 </table>
 
 <br/>
-
 ## 💜 Estadísticas de GitHub
 
 <!-- TARJETAS DE ESTADÍSTICAS EN FONDO TRANSPARENTE/BLANCO CON DETALLES MORADOS -->
