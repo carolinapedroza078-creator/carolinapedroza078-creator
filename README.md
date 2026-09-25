@@ -13,8 +13,13 @@ Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos ca
 <!-- ENCABEZADO TIPO BANNER EN ROSA PASTEL -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd1dc&height=220&section=header&text=Carolina%20Pedroza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-### ✨ Full Stack Developer ✨
-*Apasionada por el diseño web limpio, la experiencia de usuario y el código elegante.*
+### 👩‍💻 Desarrolladora Full Stack 
+
+¡Hola! Soy Carolina Pedroza, Tengo 23 años y me apasiona el mundo de la tecnología, especialmente el desarrollo web y la creación de aplicaciones.
+
+Actualmente estoy fortaleciendo mis conocimientos en programación y desarrollo de software, con especial interés en el Frontend, aunque también he tenido la oportunidad de trabajar en proyectos que involucran Backend, bases de datos y APIs.
+
+Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos cada vez más completos y convertir mis conocimientos en soluciones útiles y funcionales.
 
 💗 [LinkedIn](https://linkedin.com) | 🌸 [Correo Electrónico](mailto:carolinapedroza078@gmail.com)
 
