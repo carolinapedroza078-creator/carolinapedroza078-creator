@@ -19,6 +19,16 @@
 
 <br/>
 
+## 💜 Sobre Mí
+
+¡Hola! Soy Carolina Pedroza, tengo 23 años y me apasiona el mundo de la tecnología, especialmente el desarrollo web y la creación de aplicaciones.
+
+Actualmente estoy fortaleciendo mis conocimientos en programación y desarrollo de software, con especial interés en el **Frontend**, aunque también he tenido la oportunidad de trabajar en proyectos que involucran **Backend**, bases de datos y APIs.
+
+Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos cada vez más completos y convertir mis conocimientos en soluciones útiles y funcionales.
+
+<br/>
+
 ## ✨ Tecnologías y Ecosistema
 
 <p align="center">
@@ -51,13 +61,6 @@
 <br/>
 
 ## 📊 Rendimiento y Analíticas Interactivas
-
-<!-- TROFEOS Y LOGROS INTERACTIVOS EN TONOS LILA / VIOLETA -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolinapedroza078-creator&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=15" alt="Trofeos de GitHub" />
-</p>
-
-<br/>
 
 <!-- TARJETAS DE ESTADÍSTICAS EN FONDO TRANSPARENTE/BLANCO CON DETALLES MORADOS -->
 <p align="center">
