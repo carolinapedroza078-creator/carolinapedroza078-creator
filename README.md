@@ -68,6 +68,7 @@ Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos ca
 </table>
 
 <br/>
+
 ## 💜 Estadísticas de GitHub
 
 <!-- TARJETAS DE ESTADÍSTICAS EN FONDO TRANSPARENTE/BLANCO CON DETALLES MORADOS -->
