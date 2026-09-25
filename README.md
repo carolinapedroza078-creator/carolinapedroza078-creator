@@ -22,7 +22,6 @@
 ## ✨ Tecnologías y Ecosistema
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,express,mongodb,js,html,css,git,postman,vscode&theme=light" />
   </a>
 </p>
