@@ -52,17 +52,17 @@ Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos ca
 
 <table border="0">
   <tr>
+     <td width="50%" valign="top">
+      <h3>🛒 SmokeSoft</h3>
+      <p>Plataforma e-commerce moderna para la gestión de productos, seguimiento de pedidos y perfiles de usuario.</p>
+      <p><code>JavaScript</code> · <code>Node.js</code> · <code>HTML5</code> · <code>CSS3</code></p>
+      <a href="https://github.com/carolinapedroza078-creator/smokesoft.git">✨ Explorar Repositorio</a>
+    </td>
     <td width="50%" valign="top">
       <h3>🚀 Sistema de Gestión de Empleados</h3>
       <p>Plataforma administrativa Full Stack con control de roles, autenticación y gestión dinámica de usuarios.</p>
       <p><code>Angular</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code></p>
       <a href="https://github.com/carolinapedroza078-creator/gestion-empleados-sena">✨ Explorar Repositorio</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 SmokeSoft</h3>
-      <p>Plataforma e-commerce moderna para la gestión de productos, seguimiento de pedidos y perfiles de usuario.</p>
-      <p><code>JavaScript</code> · <code>Node.js</code> · <code>HTML5</code> · <code>CSS3</code></p>
-      <a href="https://github.com/carolinapedroza078-creator/smokesoft.git">✨ Explorar Repositorio</a>
     </td>
   </tr>
 </table>
