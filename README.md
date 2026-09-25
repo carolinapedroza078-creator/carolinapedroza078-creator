@@ -10,9 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Ingenier%C3%ADa+Frontend+y+Backend;Creando+Experiencias+Web+Modernas;Angular+%7C+TypeScript+%7C+Node.js;C%C3%B3digo+Limpio+y+Escalable" alt="Typing SVG" />
 </a>
 
-<br/>
-
-## 💜 Sobre Mí
+<br/><br/>
 
 ¡Hola! Soy Carolina Pedroza, tengo 23 años y me apasiona el mundo de la tecnología, especialmente el desarrollo web y la creación de aplicaciones.
 
