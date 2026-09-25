@@ -7,7 +7,6 @@ Actualmente estoy fortaleciendo mis conocimientos en programación y desarrollo 
 Uno de mis adjetivos es seguir creciendo como desarrolladora, crear proyectos cada vez más completos y convertir mis conocimientos en soluciones útiles y funcionales.
 
 
----
 
 ### 🛠️ Lenguajes y Tecnologías
 
@@ -20,11 +19,10 @@ Uno de mis adjetivos es seguir creciendo como desarrolladora, crear proyectos ca
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carolinapedroza078-creator&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinapedroza078-creator&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=carolinapedroza078-creator&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=carolinapedroza078-creator&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
 </p>
