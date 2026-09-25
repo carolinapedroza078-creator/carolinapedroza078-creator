@@ -11,7 +11,7 @@
 </a>
 
 
-<br/><br/>
+
 <p align="left">
 ¡Hola! Soy Carolina Pedroza, tengo 23 años y me apasiona el mundo de la tecnología, especialmente el desarrollo web y la creación de aplicaciones.
 
@@ -19,7 +19,6 @@ Actualmente estoy fortaleciendo mis conocimientos en programación y desarrollo 
 
 Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos cada vez más completos y convertir mis conocimientos en soluciones útiles y funcionales.
 </p>
-<br/>
 
 
 <br/><br/>
