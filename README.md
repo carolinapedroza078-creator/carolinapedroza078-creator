@@ -29,12 +29,21 @@ Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos ca
 
 </div>
 
-## ✨ Tecnologías y Ecosistema
+## 💜 Lenguajes y Tecnologías
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,express,mongodb,js,html,css,git,postman,vscode&theme=light" />
-  </a>
+  <img src="https://img.shields.io/badge/Angular-a855f7?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-c084fc?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-a855f7?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-c084fc?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-a855f7?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/JavaScript-c084fc?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-a855f7?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-c084fc?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-a855f7?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-c084fc?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-a855f7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <br/>
@@ -60,7 +69,7 @@ Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos ca
 
 <br/>
 
-## 📊 Rendimiento y Analíticas Interactivas
+## 💜 Estadísticas de GitHub
 
 <!-- TARJETAS DE ESTADÍSTICAS EN FONDO TRANSPARENTE/BLANCO CON DETALLES MORADOS -->
 <p align="center">
