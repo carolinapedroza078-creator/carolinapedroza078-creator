@@ -11,8 +11,8 @@
 </a>
 
 
-<div style="text-align: left;">
-  
+<div align="left">
+
 ¡Hola! Soy Carolina Pedroza, tengo 23 años y me apasiona el mundo de la tecnología, especialmente el desarrollo web y la creación de aplicaciones.
 
 Actualmente estoy fortaleciendo mis conocimientos en programación y desarrollo de software, con especial interés en el **Frontend**, aunque también he tenido la oportunidad de trabajar en proyectos que involucran **Backend**, bases de datos y APIs.
