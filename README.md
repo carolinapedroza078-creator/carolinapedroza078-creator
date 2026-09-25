@@ -10,13 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Ingenier%C3%ADa+Frontend+y+Backend;Creando+Experiencias+Web+Modernas;Angular+%7C+TypeScript+%7C+Node.js;C%C3%B3digo+Limpio+y+Escalable" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Correo](https://img.shields.io/badge/Correo-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolinapedroza078@gmail.com)
-
-</div>
-
 <br/>
 
 ## 💜 Sobre Mí
@@ -28,6 +21,13 @@ Actualmente estoy fortaleciendo mis conocimientos en programación y desarrollo 
 Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos cada vez más completos y convertir mis conocimientos en soluciones útiles y funcionales.
 
 <br/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Correo](https://img.shields.io/badge/Correo-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolinapedroza078@gmail.com)
+
+</div>
 
 ## ✨ Tecnologías y Ecosistema
 
