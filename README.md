@@ -8,46 +8,55 @@ Uno de mis objetivos es seguir creciendo como desarrolladora, crear proyectos ca
 
 
 
-### 🛠️ Lenguajes y Tecnologías
+<!-- ICONOS DE CONTACTO MINIMALISTAS -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carolinapedroza078@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
+<br/>
 
-### 📊 Estadísticas de GitHub
+## 🛠️ Tech Stack & Herramientas
 
+<!-- SkillIcons carga un panel unificado de iconos minimalistas en alta resolución -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carolinapedroza078-creator&theme=tokyonight" alt="Racha de GitHub" width="48%" />
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=carolinapedroza078-creator&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,mongodb,git,postman,vscode&theme=dark" />
+  </a>
 </p>
 
-### 📬 ¡Conectemos!
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolinapedroza078@gmail.com)
+## 🚀 Proyectos Destacados
 
-### 🛠️ Lenguajes y Tecnologías
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Gestión de Empleados</h3>
+      <p>Sistema Full Stack para la gestión administrativa de personal, autenticación y control de usuarios.</p>
+      <p><b>Tecnologías:</b> Angular, Node.js, Express, MongoDB</p>
+      <a href="https://github.com/carolinapedroza078-creator/gestion-empleados-sena">📂 Ver Repositorio</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Blog Web</h3>
+      <p>Plataforma web dinámica orientada a la publicación y estructura de contenido informativo interactivo.</p>
+      <p><b>Tecnologías:</b> HTML5, CSS3, JavaScript</p>
+      <a href="https://github.com/carolinapedroza078-creator/blog-english">📂 Ver Repositorio</a>
+    </td>
+  </tr>
+</table>
 
-**Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<br/>
 
-**Backend & Bases de Datos:**
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## 📈 Métricas de Desarrollo
 
-**Herramientas:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=carolinapedroza078-creator&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" width="48%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=carolinapedroza078-creator&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" width="45%" />
+</p>
 
+---
 
-![Contador de visitas](https://komarev.com/ghpvc/?username=carolinapedroza078-creator&color=blueviolet&style=flat-square)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=carolinapedroza078-creator&color=0284c7&style=flat-square&label=Profile+Views" alt="Visitas" />
+</p>
